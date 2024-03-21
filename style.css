@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;   
+    padding: 2% 5%
+}
+
+.nav-bar-items{
+    display: flex;
+    gap: 5%;
+}
+ul >li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
